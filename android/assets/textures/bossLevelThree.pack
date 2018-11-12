@@ -1,0 +1,19 @@
+
+bossLevelThree.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bossThree
+  rotate: false
+  xy: 1, 67
+  size: 1032, 522
+  orig: 1032, 522
+  offset: 0, 0
+  index: -1
+grenade
+  rotate: false
+  xy: 1, 1
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1

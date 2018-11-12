@@ -1,0 +1,33 @@
+
+opening.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+endingEasy
+  rotate: false
+  xy: 1, 515
+  size: 360, 444
+  orig: 360, 444
+  offset: 0, 0
+  index: -1
+endingNormal
+  rotate: false
+  xy: 1, 108
+  size: 360, 405
+  orig: 360, 405
+  offset: 0, 0
+  index: -1
+entry
+  rotate: false
+  xy: 363, 708
+  size: 360, 251
+  orig: 360, 251
+  offset: 0, 0
+  index: -1
+endingHard
+  rotate: false
+  xy: 1, 1
+  size: 360, 105
+  orig: 360, 105
+  offset: 0, 0
+  index: -1

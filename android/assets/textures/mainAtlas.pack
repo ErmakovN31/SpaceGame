@@ -1,0 +1,141 @@
+
+mainAtlas.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+explosion
+  rotate: false
+  xy: 1, 123
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: -1
+newGame
+  rotate: false
+  xy: 1, 47
+  size: 346, 74
+  orig: 346, 74
+  offset: 0, 0
+  index: -1
+gameOver
+  rotate: false
+  xy: 349, 50
+  size: 273, 71
+  orig: 273, 71
+  offset: 0, 0
+  index: -1
+hpBorder
+  rotate: false
+  xy: 903, 748
+  size: 32, 275
+  orig: 32, 275
+  offset: 0, 0
+  index: -1
+hpBar
+  rotate: false
+  xy: 903, 481
+  size: 24, 265
+  orig: 24, 265
+  offset: 0, 0
+  index: -1
+target
+  rotate: false
+  xy: 624, 57
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+rocket
+  rotate: false
+  xy: 1, 19
+  size: 100, 26
+  orig: 100, 26
+  offset: 0, 0
+  index: -1
+bulletEnemy
+  rotate: false
+  xy: 1, 1
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+bulletMainShip
+  rotate: false
+  xy: 19, 1
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+
+mainAtlas2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+alienShip
+  rotate: false
+  xy: 1, 389
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+crabShip
+  rotate: false
+  xy: 1, 131
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+UFO
+  rotate: false
+  xy: 1, 1
+  size: 512, 128
+  orig: 512, 128
+  offset: 0, 0
+  index: -1
+migShip
+  rotate: false
+  xy: 259, 131
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+rocketShip
+  rotate: false
+  xy: 517, 645
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+shipSprite
+  rotate: false
+  xy: 517, 387
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+smallShip
+  rotate: false
+  xy: 517, 129
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+
+mainAtlas3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+wideShip
+  rotate: false
+  xy: 1, 259
+  size: 512, 128
+  orig: 512, 128
+  offset: 0, 0
+  index: -1
+tentacleShip
+  rotate: false
+  xy: 1, 1
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1

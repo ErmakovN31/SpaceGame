@@ -1,0 +1,40 @@
+
+howToPlayText.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+left
+  rotate: false
+  xy: 1, 412
+  size: 768, 151
+  orig: 768, 151
+  offset: 0, 0
+  index: -1
+right
+  rotate: false
+  xy: 1, 259
+  size: 768, 151
+  orig: 768, 151
+  offset: 0, 0
+  index: -1
+shot
+  rotate: false
+  xy: 1, 106
+  size: 768, 151
+  orig: 768, 151
+  offset: 0, 0
+  index: -1
+continue
+  rotate: false
+  xy: 1, 1
+  size: 768, 103
+  orig: 768, 103
+  offset: 0, 0
+  index: -1
+arrow
+  rotate: false
+  xy: 771, 477
+  size: 128, 86
+  orig: 128, 86
+  offset: 0, 0
+  index: -1

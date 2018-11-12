@@ -1,0 +1,124 @@
+
+mainMenuAtlas.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+starSprite
+  rotate: false
+  xy: 1, 451
+  size: 304, 16
+  orig: 304, 16
+  offset: 0, 0
+  index: -1
+backBtn
+  rotate: false
+  xy: 1, 401
+  size: 256, 48
+  orig: 256, 48
+  offset: 0, 0
+  index: -1
+continueBtn
+  rotate: false
+  xy: 1, 351
+  size: 256, 48
+  orig: 256, 48
+  offset: 0, 0
+  index: -1
+easyBtn
+  rotate: false
+  xy: 1, 301
+  size: 256, 48
+  orig: 256, 48
+  offset: 0, 0
+  index: -1
+exitBtn
+  rotate: false
+  xy: 1, 251
+  size: 256, 48
+  orig: 256, 48
+  offset: 0, 0
+  index: -1
+mainMenuBtn
+  rotate: false
+  xy: 1, 201
+  size: 256, 48
+  orig: 256, 48
+  offset: 0, 0
+  index: -1
+newGameBtn
+  rotate: false
+  xy: 1, 151
+  size: 256, 48
+  orig: 256, 48
+  offset: 0, 0
+  index: -1
+nightmareBtn
+  rotate: false
+  xy: 1, 101
+  size: 256, 48
+  orig: 256, 48
+  offset: 0, 0
+  index: -1
+noBtn
+  rotate: false
+  xy: 1, 51
+  size: 256, 48
+  orig: 256, 48
+  offset: 0, 0
+  index: -1
+normalBtn
+  rotate: false
+  xy: 1, 1
+  size: 256, 48
+  orig: 256, 48
+  offset: 0, 0
+  index: -1
+restartBtn
+  rotate: false
+  xy: 307, 419
+  size: 256, 48
+  orig: 256, 48
+  offset: 0, 0
+  index: -1
+survivalBtn
+  rotate: false
+  xy: 565, 419
+  size: 256, 48
+  orig: 256, 48
+  offset: 0, 0
+  index: -1
+yesBtn
+  rotate: false
+  xy: 259, 369
+  size: 256, 48
+  orig: 256, 48
+  offset: 0, 0
+  index: -1
+eagleMasterRank
+  rotate: false
+  xy: 259, 267
+  size: 127, 100
+  orig: 127, 100
+  offset: 0, 0
+  index: -1
+globalEliteRank
+  rotate: false
+  xy: 259, 165
+  size: 127, 100
+  orig: 127, 100
+  offset: 0, 0
+  index: -1
+goldNovaRank
+  rotate: false
+  xy: 388, 267
+  size: 127, 100
+  orig: 127, 100
+  offset: 0, 0
+  index: -1
+silverRank
+  rotate: false
+  xy: 517, 317
+  size: 127, 100
+  orig: 127, 100
+  offset: 0, 0
+  index: -1
